@@ -76,18 +76,18 @@ DWORD WINAPI Payload(LPVOID lpParam)
         , {_XOR_("Inf Stratagems"), false}
         , {_XOR_("MoveSpeed X6"), false}
         , {_XOR_("Inf Mission Time"), true}
-        , {_XOR_("No Reload"), false}
+        , {_XOR_("NO Reload"), false}
         , {_XOR_("Max Resources"), true}
         , {_XOR_("Add 5 Samples"), false}
-        , {_XOR_("No Recoil"), true}
+        , {_XOR_("NO Recoil"), true}
         , {_XOR_("Inf Backpack"), true}
         , {_XOR_("Inf Special Weapon"), false}
-        , {_XOR_("No Laser Cannon Overheat"), false}
+        , {_XOR_("NO Laser Cannon Overheat"), false}
         , {_XOR_("Instant Railgun"), false}
         , {_XOR_("Show All Map Icons"), true}
-        , {_XOR_("No Stationary Turret Overheat"), false}
-        , {_XOR_("No Backpack Shield Cooldown"), false}
-        , {_XOR_("No JetPack Cooldown"), false}
+        , {_XOR_("NO Stationary Turret Overheat"), false}
+        , {_XOR_("NO Backpack Shield Cooldown"), false}
+        , {_XOR_("NO JetPack Cooldown"), false}
         , {_XOR_("All Stratagems in Loadout"), false}
         , {_XOR_("All Equipment in Armory"), false}
         , {_XOR_("All Armor in Armory"), false}
