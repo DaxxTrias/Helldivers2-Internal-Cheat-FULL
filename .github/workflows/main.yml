@@ -29,16 +29,16 @@ jobs:
           git config --local user.name "${{ github.repository_owner }}"
           git add -A
           
-          arr[0]="Helldivers-2 External"
-          arr[1]="Helldivers-2 External"
-          arr[2]="Helldivers-2 External"
-          arr[3]="Helldivers-2 External"
-          arr[4]="Helldivers-2 External"
-          arr[5]="Helldivers-2 External"
-          arr[6]="Helldivers-2 External"
-          arr[7]="Helldivers-2 External"
-          arr[8]="Helldivers-2 External"
-          arr[9]="Helldivers-2 External"
+          arr[0]="Helldivers-2 Internal"
+          arr[1]="Helldivers-2 Internal"
+          arr[2]="Helldivers-2 Internal"
+          arr[3]="Helldivers-2 Internal"
+          arr[4]="Helldivers-2 Internal"
+          arr[5]="Helldivers-2 Internal"
+          arr[6]="Helldivers-2 Internal"
+          arr[7]="Helldivers-2 Internal"
+          arr[8]="Helldivers-2 Internal"
+          arr[9]="Helldivers-2 Internal"
           
           rand=$[$RANDOM % ${#arr[@]}]
           
